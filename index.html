@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="author" content="Tao Long">
+	<title>Tweeter Sentiment</title>
+
+	<!-- materialize for styling; looks a bit nicer than bootstrap -->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.7/css/materialize.min.css">
+	<!-- font-awesome for icons -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
+	<link rel="stylesheet" href="css/style.css">
+
+	<!-- sample tweets and sentiment data (as globals) -->
+	<script src="data/tweets.js"></script>
+	<script src="data/sentiments-nrc.js"></script>
+</head>
+
+<body>
+	<div class="container">
+		<!-- content -->
+		<h1><i class="fa fa-twitter"></i> Tweeter Sentiment</h1>
+
+		<div class="input-field">
+			<i class="fa fa-user fa-2x prefix" aria-hidden="true"></i>
+			<input name="query" placeholder="Twitter username to analyze..." id="searchBox">
+			<button id="searchButton" class="btn"><i class="fa fa-search" aria-label="search button"></i></button>
+		</div>
+
+		<table id="sentiment-table" class="bordered highlight">
+			<thead>
+				<tr>
+					<th>Emotion</th>
+					<th>% of Words</th>
+					<th>Example Words</th>
+					<th>Hashtags</th>
+				</tr>
+			</thead>
+			<tbody>
+				<!--Table content will go here-->
+			</tbody>
+		</table>
+
+	</div>
+	<!-- end content -->
+
+	<!-- LOAD YOUR SCRIPT HERE! -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/fetch/1.0.0/fetch.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/es6-promise/4.0.5/es6-promise.min.js"></script>
+	<script src="js/app.js"></script>
+
+</body>
+
+</html>

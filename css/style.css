@@ -1,0 +1,13 @@
+/* styling goes here */
+
+#searchBox {
+  max-width: 30%; /* don't fill the page */
+}
+
+.fa-twitter {
+  color:#55acee;
+}
+
+table {
+  width:auto; /* fit to contents */
+}

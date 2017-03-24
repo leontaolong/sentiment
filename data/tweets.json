@@ -1,0 +1,661 @@
+[
+  {
+    "created_at": "Mon Oct 10 18:39:51 +0000 2016",
+    "retweet_count": 9,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            20,
+            41
+          ],
+          "text": "IndigenousPeoplesDay"
+        }
+      ]
+    },
+    "user": {
+      "screen_name": "UW_iSchool"
+    },
+    "text": "RT @UWAPress: Happy #IndigenousPeoplesDay https://t.co/YmU9e9lj7v"
+  },
+  {
+    "created_at": "Mon Oct 10 18:00:00 +0000 2016",
+    "retweet_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            16,
+            29
+          ],
+          "text": "IdealistFair"
+        }
+      ]
+    },
+    "user": {
+      "screen_name": "UW_iSchool"
+    },
+    "text": "We'll be at the #IdealistFair this evening on the Seattle U. campus. Come and learn about our graduate programs: https://t.co/et1HrQshmr"
+  },
+  {
+    "created_at": "Mon Oct 10 15:10:36 +0000 2016",
+    "retweet_count": 1,
+    "entities": {
+      "hashtags": []
+    },
+    "user": {
+      "screen_name": "UW_iSchool"
+    },
+    "text": "RT @iYouthUW: iYouth Tips for 1st\u00a0Years https://t.co/K4SCIEhJ8k https://t.co/p4lbC6Jb5o"
+  },
+  {
+    "created_at": "Sat Oct 08 23:31:51 +0000 2016",
+    "retweet_count": 0,
+    "entities": {
+      "hashtags": []
+    },
+    "user": {
+      "screen_name": "UW_iSchool"
+    },
+    "text": "This week at the iSchool - a quick roundup of top stories and tweets of the week on our blog: https://t.co/ND2dMvg3FQ"
+  },
+  {
+    "created_at": "Fri Oct 07 23:04:20 +0000 2016",
+    "retweet_count": 1,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            9,
+            21
+          ],
+          "text": "GeekGirlCon"
+        }
+      ]
+    },
+    "user": {
+      "screen_name": "UW_iSchool"
+    },
+    "text": "Going to #GeekGirlCon this weekend in Seattle? So are we! Come and visit and learn about our programs. https://t.co/yJ4Vhx8oOA"
+  },
+  {
+    "created_at": "Fri Oct 07 17:15:31 +0000 2016",
+    "retweet_count": 1,
+    "entities": {
+      "hashtags": []
+    },
+    "user": {
+      "screen_name": "UW_iSchool"
+    },
+    "text": "iSchool students got a warm welcome from @UW alumni on Guam during their study abroad program a few weeks back.\u2026 https://t.co/FfDKnmw0DB"
+  },
+  {
+    "created_at": "Fri Oct 07 16:07:10 +0000 2016",
+    "retweet_count": 1,
+    "entities": {
+      "hashtags": []
+    },
+    "user": {
+      "screen_name": "UW_iSchool"
+    },
+    "text": "RT @taschagroup: What exactly IS a MOOC? What do MOOCS mean for global development? Let TASCHA's new evidence-based guides explain! https:/\u2026"
+  },
+  {
+    "created_at": "Thu Oct 06 22:26:31 +0000 2016",
+    "retweet_count": 0,
+    "entities": {
+      "hashtags": []
+    },
+    "user": {
+      "screen_name": "UW_iSchool"
+    },
+    "text": "Our Ricardo Gomez on the rejection of a peace deal in Colombia: \"What's the future?\" https://t.co/AE0bQYDR8M"
+  },
+  {
+    "created_at": "Thu Oct 06 21:41:00 +0000 2016",
+    "retweet_count": 1,
+    "entities": {
+      "hashtags": []
+    },
+    "user": {
+      "screen_name": "UW_iSchool"
+    },
+    "text": "S/O to Professor @karenefisher, recipient of the 2016 ASIS&amp;T SIG USE Outstanding Contribution Award. Congratulations, Karen!"
+  },
+  {
+    "created_at": "Thu Oct 06 20:14:59 +0000 2016",
+    "retweet_count": 0,
+    "entities": {
+      "hashtags": []
+    },
+    "user": {
+      "screen_name": "UW_iSchool"
+    },
+    "text": "iSchool students recently returned from an exploration seminar in Denmark. Godt klaret! https://t.co/mLHqEjWymf"
+  },
+  {
+    "created_at": "Thu Oct 06 19:31:40 +0000 2016",
+    "retweet_count": 26,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            40,
+            56
+          ],
+          "text": "SuzzalloLibrary"
+        },
+        {
+          "indices": [
+            72,
+            82
+          ],
+          "text": "NoBrainer"
+        }
+      ]
+    },
+    "user": {
+      "screen_name": "UW_iSchool"
+    },
+    "text": "RT @UW: Is anyone surprised to see that #SuzzalloLibrary made the list? #NoBrainer :)\nCC @uwlibraries https://t.co/OCz15kMQ8R"
+  },
+  {
+    "created_at": "Thu Oct 06 16:33:08 +0000 2016",
+    "retweet_count": 1,
+    "entities": {
+      "hashtags": []
+    },
+    "user": {
+      "screen_name": "UW_iSchool"
+    },
+    "text": "RT @Kapellmann: Just sharing this invitation for the C-Suite Jam Session today! :) - @UW_iSchool @aimsuw @UW https://t.co/NX7g3tSLbi"
+  },
+  {
+    "created_at": "Thu Oct 06 16:00:44 +0000 2016",
+    "retweet_count": 0,
+    "entities": {
+      "hashtags": []
+    },
+    "user": {
+      "screen_name": "UW_iSchool"
+    },
+    "text": "We're excited to have Ben Shneiderman (@benbendc) here for our Research Symposium today at 11. Details: https://t.co/XputDSo2ll"
+  },
+  {
+    "created_at": "Wed Oct 05 22:11:05 +0000 2016",
+    "retweet_count": 0,
+    "entities": {
+      "hashtags": []
+    },
+    "user": {
+      "screen_name": "UW_iSchool"
+    },
+    "text": "SO to 5 Informatics students who interned at @AlaskaAir over summer, pictured with the iSchool's Dean Kirkpatrick a\u2026 https://t.co/EQZ0GeydAq"
+  },
+  {
+    "created_at": "Wed Oct 05 20:00:01 +0000 2016",
+    "retweet_count": 0,
+    "entities": {
+      "hashtags": []
+    },
+    "user": {
+      "screen_name": "UW_iSchool"
+    },
+    "text": "Be there 10/21 for \"Together,\" the launch of @UW's philanthropic campaign: https://t.co/grAPUVLrPq. Just a bunch of boring speeches? Nope!"
+  },
+  {
+    "created_at": "Wed Oct 05 17:31:38 +0000 2016",
+    "retweet_count": 1,
+    "entities": {
+      "hashtags": []
+    },
+    "user": {
+      "screen_name": "UW_iSchool"
+    },
+    "text": "RT @uwioss: The UW Grad School's Fall 2016 Diversity and Equity calendar is out! https://t.co/TECMwnpxII"
+  },
+  {
+    "created_at": "Wed Oct 05 16:27:53 +0000 2016",
+    "retweet_count": 0,
+    "entities": {
+      "hashtags": []
+    },
+    "user": {
+      "screen_name": "UW_iSchool"
+    },
+    "text": "Want to learn about our Informatics major and other UW design-related programs? Design majors showcase this Friday: https://t.co/pbm97bFl87"
+  },
+  {
+    "created_at": "Wed Oct 05 15:44:19 +0000 2016",
+    "retweet_count": 5,
+    "entities": {
+      "hashtags": []
+    },
+    "user": {
+      "screen_name": "UW_iSchool"
+    },
+    "text": "RT @Nancy_Pearl: It is very weird to be discontinued, though. https://t.co/xTZoI5SyIb"
+  },
+  {
+    "created_at": "Tue Oct 04 22:05:41 +0000 2016",
+    "retweet_count": 1,
+    "entities": {
+      "hashtags": []
+    },
+    "user": {
+      "screen_name": "UW_iSchool"
+    },
+    "text": "RT @uwioss: October events for undergraduate scholarship search: https://t.co/n8hDRkR1r3"
+  },
+  {
+    "created_at": "Tue Oct 04 16:26:52 +0000 2016",
+    "retweet_count": 1,
+    "entities": {
+      "hashtags": []
+    },
+    "user": {
+      "screen_name": "UW_iSchool"
+    },
+    "text": "The iSchool will finally have everyone under one roof in 2018 -- in a prime location: https://t.co/wueOJDd5jX https://t.co/UDbACn2XUH"
+  },
+  {
+    "created_at": "Mon Oct 03 22:49:55 +0000 2016",
+    "retweet_count": 1,
+    "entities": {
+      "hashtags": []
+    },
+    "user": {
+      "screen_name": "UW_iSchool"
+    },
+    "text": "After a long \"space odyssey,\" the iSchool will have a single, central location on the UW campus in 2018:\u2026 https://t.co/Vd5edaWfZu"
+  },
+  {
+    "created_at": "Mon Oct 03 21:05:12 +0000 2016",
+    "retweet_count": 1,
+    "entities": {
+      "hashtags": []
+    },
+    "user": {
+      "screen_name": "UW_iSchool"
+    },
+    "text": "RT @iequalityUW: Mini-zine on microagressions from the National Diversity In Libraries Conference that took place June 2016. https://t.co/p\u2026"
+  },
+  {
+    "created_at": "Mon Oct 03 19:56:43 +0000 2016",
+    "retweet_count": 1,
+    "entities": {
+      "hashtags": []
+    },
+    "user": {
+      "screen_name": "UW_iSchool"
+    },
+    "text": "RT @uwioss: The FAFSA for deadlines have changed for 2017! Opens 10/1/16, priority deadline 1/15/17. https://t.co/iavLNWRoK4"
+  },
+  {
+    "created_at": "Mon Oct 03 19:39:37 +0000 2016",
+    "retweet_count": 2,
+    "entities": {
+      "hashtags": []
+    },
+    "user": {
+      "screen_name": "UW_iSchool"
+    },
+    "text": "RT @nniiicc: Surprise Maps from the UW interactive data lab https://t.co/wPKbxdm6nn"
+  },
+  {
+    "created_at": "Mon Oct 03 15:37:33 +0000 2016",
+    "retweet_count": 13,
+    "entities": {
+      "hashtags": []
+    },
+    "user": {
+      "screen_name": "UW_iSchool"
+    },
+    "text": "RT @andyjko: The UW iSchool is hiring tenure-track faculty in HCI (review Dec 1) and Data Ethics (review Oct 30)! https://t.co/TzzBdACY89"
+  },
+  {
+    "created_at": "Fri Sep 30 21:26:40 +0000 2016",
+    "retweet_count": 1,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            0,
+            8
+          ],
+          "text": "GoDawgs"
+        },
+        {
+          "indices": [
+            9,
+            22
+          ],
+          "text": "BeatStanford"
+        }
+      ]
+    },
+    "user": {
+      "screen_name": "UW_iSchool"
+    },
+    "text": "#GoDawgs #BeatStanford https://t.co/vRkxFq6YgX"
+  },
+  {
+    "created_at": "Fri Sep 30 21:13:55 +0000 2016",
+    "retweet_count": 1,
+    "entities": {
+      "hashtags": []
+    },
+    "user": {
+      "screen_name": "UW_iSchool"
+    },
+    "text": "RT @uwioss: Join a UW Alum for a day on the job! https://t.co/ZLNZd1qWEi"
+  },
+  {
+    "created_at": "Fri Sep 30 20:57:56 +0000 2016",
+    "retweet_count": 0,
+    "entities": {
+      "hashtags": []
+    },
+    "user": {
+      "screen_name": "UW_iSchool"
+    },
+    "text": "iSchoolers in the news &amp; tweets of the week -- a few updates from back-to-school week on the blog: https://t.co/plIw8hnLxZ"
+  },
+  {
+    "created_at": "Fri Sep 30 20:14:50 +0000 2016",
+    "retweet_count": 1,
+    "entities": {
+      "hashtags": []
+    },
+    "user": {
+      "screen_name": "UW_iSchool"
+    },
+    "text": "RT @sALA_UW: Today, as we wind down with Banned Books Week, We're sharing two experiences from our wonderful officers. Stacey Akahoshi and\u2026"
+  },
+  {
+    "created_at": "Fri Sep 30 18:58:00 +0000 2016",
+    "retweet_count": 1,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            32,
+            38
+          ],
+          "text": "GGC16"
+        }
+      ]
+    },
+    "user": {
+      "screen_name": "UW_iSchool"
+    },
+    "text": "We'll be there next weekend for #GGC16 in Seattle! Mark your calendar. https://t.co/9LgFvdHC1E"
+  },
+  {
+    "created_at": "Fri Sep 30 15:51:17 +0000 2016",
+    "retweet_count": 2,
+    "entities": {
+      "hashtags": []
+    },
+    "user": {
+      "screen_name": "UW_iSchool"
+    },
+    "text": "RT @HuskyBytes: Huskies! @UWDawgDaze Tech Expo @odegaardlibrary today 10a-2p! Learn about all the free technology, discounts and services a\u2026"
+  },
+  {
+    "created_at": "Thu Sep 29 20:11:31 +0000 2016",
+    "retweet_count": 2,
+    "entities": {
+      "hashtags": []
+    },
+    "user": {
+      "screen_name": "UW_iSchool"
+    },
+    "text": "RT @uwioss: The Autumn application cycle for Mary Gates Scholarships is now open! https://t.co/KwCaG0mOvN"
+  },
+  {
+    "created_at": "Thu Sep 29 15:37:11 +0000 2016",
+    "retweet_count": 7,
+    "entities": {
+      "hashtags": []
+    },
+    "user": {
+      "screen_name": "UW_iSchool"
+    },
+    "text": "RT @uwdub: Join us! @UW_iSchool hiring faculty in HCI for Social Good https://t.co/peyM8t0lsr and Data Ethics https://t.co/6KGYb72LRb"
+  },
+  {
+    "created_at": "Thu Sep 29 00:47:01 +0000 2016",
+    "retweet_count": 0,
+    "entities": {
+      "hashtags": []
+    },
+    "user": {
+      "screen_name": "UW_iSchool"
+    },
+    "text": "iSchool's Nic Weber: \"The future of libraries is a hard, complex, big problem, but also a lot of fun for me.\u201d https://t.co/TmSCqxpgjL"
+  },
+  {
+    "created_at": "Wed Sep 28 23:30:37 +0000 2016",
+    "retweet_count": 7,
+    "entities": {
+      "hashtags": []
+    },
+    "user": {
+      "screen_name": "UW_iSchool"
+    },
+    "text": "RT @uwnews: .@UW ranked among the top five most innovative universities in the world by Reuters https://t.co/FtJ6BLYq4R"
+  },
+  {
+    "created_at": "Wed Sep 28 23:23:33 +0000 2016",
+    "retweet_count": 1,
+    "entities": {
+      "hashtags": []
+    },
+    "user": {
+      "screen_name": "UW_iSchool"
+    },
+    "text": "New story: When disaster strikes, MLIS student Sarah Carnes has key information ready. https://t.co/nBMulgZEFU"
+  },
+  {
+    "created_at": "Wed Sep 28 23:20:05 +0000 2016",
+    "retweet_count": 3,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            40,
+            50
+          ],
+          "text": "diversity"
+        }
+      ]
+    },
+    "user": {
+      "screen_name": "UW_iSchool"
+    },
+    "text": "RT @uwnews: .@UW works to boost faculty #diversity through recruitment and retention efforts https://t.co/zFfggsEt2D https://t.co/SrRpidAmLe"
+  },
+  {
+    "created_at": "Wed Sep 28 22:26:12 +0000 2016",
+    "retweet_count": 1,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            25,
+            41
+          ],
+          "text": "AccessToInfoDay"
+        }
+      ]
+    },
+    "user": {
+      "screen_name": "UW_iSchool"
+    },
+    "text": "RT @taschagroup: A merry #AccessToInfoDay to all! Today we are recognizing a few of the many ways A2I enriches our lives! https://t.co/6Zox\u2026"
+  },
+  {
+    "created_at": "Wed Sep 28 22:25:45 +0000 2016",
+    "retweet_count": 1,
+    "entities": {
+      "hashtags": []
+    },
+    "user": {
+      "screen_name": "UW_iSchool"
+    },
+    "text": "RT @uwioss: \"Don't drop out--drop in!\" Normal school year drop in hours begin today! Check\u2026 https://t.co/ty4YIYDuF2"
+  },
+  {
+    "created_at": "Wed Sep 28 19:24:53 +0000 2016",
+    "retweet_count": 2,
+    "entities": {
+      "hashtags": []
+    },
+    "user": {
+      "screen_name": "UW_iSchool"
+    },
+    "text": "RT @taschagroup: A new project at TASCHA will investigate the role of public libraries in Access to Information and the UN 2030... https://\u2026"
+  },
+  {
+    "created_at": "Wed Sep 28 18:50:30 +0000 2016",
+    "retweet_count": 1,
+    "entities": {
+      "hashtags": []
+    },
+    "user": {
+      "screen_name": "UW_iSchool"
+    },
+    "text": "RT @sALA_UW: Each day this week, one of our sALA officers will share their experience with banned books. We begin with Co-Pres, Lauren Huss\u2026"
+  },
+  {
+    "created_at": "Wed Sep 28 17:56:08 +0000 2016",
+    "retweet_count": 1,
+    "entities": {
+      "hashtags": []
+    },
+    "user": {
+      "screen_name": "UW_iSchool"
+    },
+    "text": "RT @uwioss: It begins! Students start to return to the iSchool computer labs. Happy first day of classes!\u2026 https://t.co/VucGdV9F2U"
+  },
+  {
+    "created_at": "Wed Sep 28 17:38:41 +0000 2016",
+    "retweet_count": 2,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            117,
+            133
+          ],
+          "text": "accesstoinfoday"
+        }
+      ]
+    },
+    "user": {
+      "screen_name": "UW_iSchool"
+    },
+    "text": "RT @mariaigarrido: The Right to information, the right to know around the world. Very cool @article19org infographic #accesstoinfoday @UNES\u2026"
+  },
+  {
+    "created_at": "Wed Sep 28 17:27:44 +0000 2016",
+    "retweet_count": 1,
+    "entities": {
+      "hashtags": []
+    },
+    "user": {
+      "screen_name": "UW_iSchool"
+    },
+    "text": "RT @brianneopal: First day of school with @UW_iSchool. Wish me knowledge! https://t.co/gwfu9h6nfL"
+  },
+  {
+    "created_at": "Wed Sep 28 17:00:02 +0000 2016",
+    "retweet_count": 0,
+    "entities": {
+      "hashtags": []
+    },
+    "user": {
+      "screen_name": "UW_iSchool"
+    },
+    "text": "Meet Nic Weber (@nniiicc), a new addition to the faculty and an expert in data curation: https://t.co/TmSCqx7EVb"
+  },
+  {
+    "created_at": "Wed Sep 28 16:50:51 +0000 2016",
+    "retweet_count": 1,
+    "entities": {
+      "hashtags": []
+    },
+    "user": {
+      "screen_name": "UW_iSchool"
+    },
+    "text": "RT @jasoncyip: Nice mention about our @UW_iSchool work with codesign and libraries. https://t.co/KneDsDoBdK"
+  },
+  {
+    "created_at": "Wed Sep 28 16:33:51 +0000 2016",
+    "retweet_count": 2,
+    "entities": {
+      "hashtags": []
+    },
+    "user": {
+      "screen_name": "UW_iSchool"
+    },
+    "text": "Happy Fall Quarter! Welcome to all of our new and returning Informatics, MLIS, MSIM and Ph.D. students."
+  },
+  {
+    "created_at": "Wed Sep 28 15:42:10 +0000 2016",
+    "retweet_count": 2,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            84,
+            96
+          ],
+          "text": "informatics"
+        },
+        {
+          "indices": [
+            97,
+            105
+          ],
+          "text": "info340"
+        }
+      ]
+    },
+    "user": {
+      "screen_name": "UW_iSchool"
+    },
+    "text": "RT @walkeroh: Got my balloons and textbook. I\u2019m ready for the first day of classes! #informatics #info340 @UW_iSchool https://t.co/NEoQVmSu\u2026"
+  },
+  {
+    "created_at": "Tue Sep 27 19:12:55 +0000 2016",
+    "retweet_count": 1,
+    "entities": {
+      "hashtags": []
+    },
+    "user": {
+      "screen_name": "UW_iSchool"
+    },
+    "text": "RT @uwioss: Veterans Graduate School Virtual Fair, October 27. Get all or part of your graduate degree paid for! https://t.co/OSBsf6QreU"
+  },
+  {
+    "created_at": "Tue Sep 27 19:09:13 +0000 2016",
+    "retweet_count": 1,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            69,
+            74
+          ],
+          "text": "MLIS"
+        }
+      ]
+    },
+    "user": {
+      "screen_name": "UW_iSchool"
+    },
+    "text": "RT @bibliorogue: A community involvement opportunity for @UW_iSchool #MLIS students. Thanks @casshart, for organizing this again! https://t\u2026"
+  }
+]

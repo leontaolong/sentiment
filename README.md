@@ -3,7 +3,7 @@ This is a web page written in _JavaScript_ to perform simple sentiment analysis 
 
 Site: https://leontaolong.github.io/sentiment
 
-Enter twitter username to get analysis, e.g: realdonaldtrump
+Enter twitter username to get analysis, e.g: `realdonaldtrump`
 
 It looks something like this:
 
